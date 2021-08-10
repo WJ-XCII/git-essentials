@@ -1,9 +1,5 @@
-# git-essentials
+# Git Essentials / Git for Everybody
 
-## Deployment notes
+This is a course to teach you how to use everyting in git.
 
-## Staging motes
-
-## How to use this repo notes
-
-## Some new stuff in readme
+Course created by Kalob Taulien
